@@ -1,4 +1,5 @@
-// alert('hello')
+//jquery validation 
+
 $(document).ready(function() {
     $("#sign-up").validate({
         rules:{

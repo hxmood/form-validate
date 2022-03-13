@@ -43,10 +43,7 @@ form {
     cursor: pointer;
 }
 
-/* .error{
-    color: red;
-    
-} */
+
 label.error {
     color: red;
 }
